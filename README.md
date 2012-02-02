@@ -5,9 +5,7 @@ in a bottle.py powered web project using the [Gevent-Websocket](http://www.gelen
 ## Requirements
 - Python 2.6/2.7
 - Gevent
-- Gevent-Websockets [Development Branch]  (Included in *.zip file w/
-  LICENSE)
-
+- [Gevent-Websocket](http://www.gelens.org/code/gevent-websocket/) `Development Branch` (Included)
 
 Copyright (c) 2012 Andrew Nelder.
 
